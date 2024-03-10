@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "title": "California Roll",
+    "price": 8.99,
+    "description": "Crab, avocado, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/g1923f55eef938ceb1f974e29be330f2067d4d8163390c7248c479737062fd07b6a2cd80be1300cf9146d1619f7c43d8dc2d24a67a7bf79bb1063c1e5766b6f756e105dfef4e8af3de474332f130de6ad_640.jpg",
+    "in_stock": true,
+    "ingredients": [
+      "Crab",
+      "Avocado",
+      "Cucumber",
+      "Seaweed",
+      "Sushi rice",
+      "Soy sauce",
+      "Wasabi"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Salmon Nigiri",
+    "price": 4.49,
+    "description": "Sliced raw salmon over pressed sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/geb43125d15c68d62fbc116732b17910309fc9c9badf93bcc0371ec9039b0ae12849469a87f55b7ace8b26d576a0f28eea9bf51784635d8349feaaaacbdcf392fad5e97d54a2b0528371ab81f50490139_640.jpg",
+    "in_stock": true,
+    "ingredients": ["Salmon", "Sushi rice", "Soy sauce", "Wasabi"]
+  },
+  {
+    "id": 3,
+    "title": "Tuna Sashimi",
+    "price": 9.99,
+    "description": "Fresh slices of raw tuna, served with soy sauce and pickled ginger.",
+    "image": "https://pixabay.com/get/g973fec359b90e493cd7c158629ffa06c031f9c3708f5e6b4c278c60ca5bb4ad682cb5305d7bd3d04c42707e2c312fb259443a21d6ba8df428a43d51c331823a1e57741c51540148038272567162a4698_640.jpg",
+    "in_stock": true,
+    "ingredients": ["Tuna", "Soy sauce", "Pickled ginger"]
+  },
+  {
+    "id": 4,
+    "title": "Spicy Tuna Roll",
+    "price": 10.99,
+    "description": "Tuna mixed with spicy mayo, rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/g3517f9119c34e5cc5215495f2893418886e096bb18699370adc57e76fee4bb5879460ccd87805df4a0fa2fd2f452110fbb3920e33d0eadd0efe94de456f45b0c17181f9d8266473ca6738156644b4eb9_640.jpg",
+    "in_stock": true,
+    "ingredients": [
+      "Tuna",
+      "Spicy mayo",
+      "Seaweed",
+      "Sushi rice",
+      "Soy sauce",
+      "Wasabi"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shrimp Tempura Roll",
+    "price": 11.49,
+    "description": "Crispy shrimp tempura, avocado, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/g318605dc68a14d5cc17be5e7dc27694551a29afdc3197a42c5c28a1741d5b9a0de260bd556e309c894e472351eb4142629bf3131553f29939830cccc0a4f33629f02a75412814350b81ecb9e98cbc3e6_640.jpg",
+    "in_stock": true,
+    "ingredients": [
+      "Shrimp tempura",
+      "Avocado",
+      "Cucumber",
+      "Seaweed",
+      "Sushi rice",
+      "Soy sauce",
+      "Wasabi"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dragon Roll",
+    "price": 12.99,
+    "description": "Eel, avocado, and cucumber rolled with seaweed and sushi rice, topped with sliced avocado and eel sauce.",
+    "image": "https://pixabay.com/get/g62f96bf9ea23329eaa747aa0725293da62f2dac12e4b6af31be6a064cc66ea4d2e3f3595e38f4f9ea28469ae76de2c00918436597615cf3886b81aa05cba1e877b69b15372ae6826974966a9fc1f99c6_640.png",
+    "in_stock": true,
+    "ingredients": [
+      "Eel",
+      "Avocado",
+      "Cucumber",
+      "Seaweed",
+      "Sushi rice",
+      "Eel sauce"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Vegetable Roll",
+    "price": 7.99,
+    "description": "Assorted fresh vegetables rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/gc89a0c9e6cd0efda7b07acbf5c3e999b30ccaf3a7f994c37a9e865abc713e1fa00e583baae9be10b9292e4c1322cdcc9d762830ff640943a9b577ea2eb38dfd89c4bab1a731461ab38ef06ce42c82944_640.jpg",
+    "in_stock": true,
+    "ingredients": [
+      "Assorted vegetables",
+      "Seaweed",
+      "Sushi rice",
+      "Soy sauce",
+      "Wasabi"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Philadelphia Roll",
+    "price": 9.49,
+    "description": "Smoked salmon, cream cheese, and cucumber rolled with seaweed and sushi rice, served with soy sauce and wasabi.",
+    "image": "https://pixabay.com/get/g52ffddecec3ecfdb1682596920da5c9364457026419b141993a039d9bdd48e98a7cd76ff9e94e254880f26acd64dbfa72408217b7d568278c3aca3cd0463c78049ec816a8ee811540b7d4a8d95affa72_640.png",
+    "in_stock": true,
+    "ingredients": [
+      "Smoked salmon",
+      "Cream cheese",
+      "Cucumber",
+      "Seaweed",
+      "Sushi rice",
+      "Soy sauce",
+      "Wasabi"
+    ]
+  }
+]
